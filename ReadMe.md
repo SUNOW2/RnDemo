@@ -1,3 +1,8 @@
+## 项目介绍
+笔者正在学习react native，该项目主要是笔者的学习记录。该项目的重点在react native内
+整合redux。有此需求的同学，请着重关注redux目录和/src/components/button/CountButton.js
+文件。
+
 ## `React Native`生命周期
 ![avatar](./mdimages/lifecycle.jpeg)
 
